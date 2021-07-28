@@ -2,7 +2,7 @@
 # Xuperchain contract: C + + contract code of government system
 English | [简体中文](./README-zh.md)
 > A minimalist government system;
-** https://github.com/UnderRose520/xuperchain-go
+** https://github.com/UnderRose520/xuperchain-contract
 ## Running steps
 ### Portal: [Baidu super chain account]（ https://xuper.baidu.com )
 ```
