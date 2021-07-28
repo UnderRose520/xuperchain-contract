@@ -7,7 +7,7 @@ English | [简体中文](./README-zh.md)
 ### Portal: [Baidu super chain account]（ https://xuper.baidu.com )
 ```
 # clone the project
-git clone https://github.com/UnderRose520/xuperchain-vue.git
+git clone https://github.com/UnderRose520/xuperchain-contract.git
 
 # Registration: see portal for link
 
