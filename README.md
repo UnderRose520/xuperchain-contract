@@ -1,5 +1,5 @@
 
-# Xuperchain contract: C + + contract code of government system
+## Xuperchain contract: C + + contract code of government system
 English | [简体中文](./README-zh.md)
 > A minimalist government system;
 ** https://github.com/UnderRose520/xuperchain-contract
@@ -15,4 +15,5 @@ English | [简体中文](./README-zh.md)
 ```
 ## License
 [MIT]( https://github.com/UnderRose520/xuperchain-contract/blob/master/LICENSE ) license.
+
 Copyright (c) 2021-present Yang Shuwu &amp;Qi Lianfeng &amp;Zhu Chenghang &amp;Non Chengyi &amp;Huang Xiuwei
