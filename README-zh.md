@@ -5,7 +5,7 @@
 
 > 一个极简的政务系统；
 
-**https://github.com/UnderRose520/xuperchain-go
+**https://github.com/UnderRose520/xuperchain-contract
 
 ## 运行步骤
 
