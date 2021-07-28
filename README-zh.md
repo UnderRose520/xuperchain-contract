@@ -8,10 +8,8 @@
 **https://github.com/UnderRose520/xuperchain-go
 
 ## 运行步骤
-```
 
-```
-传送门：[百度超级链账号](https://xuper.baidu.com)
+### 传送门：[百度超级链账号](https://xuper.baidu.com)
 ```
 # 注册：链接见传送门
 
