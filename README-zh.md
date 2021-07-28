@@ -11,7 +11,7 @@ English | [简体中文](./README-zh.md)
 ## 项目准备
 ```
 # .[注册百度超级链账号].(https://xuper.baidu.com)
-
+[注册百度超级链账号](https://xuper.baidu.com)
 #
 
 #
