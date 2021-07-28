@@ -2,6 +2,7 @@
 
 # xuperchain-contract: 政务系统c++合约代码
 
+[English](./README.md) | 简体中文
 
 > 一个极简的政务系统；
 
