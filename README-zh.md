@@ -9,7 +9,7 @@ English | [简体中文](./README-zh.md)
 **https://github.com/UnderRose520/xuperchain-go
 
 ## 项目准备
-```
+
 # .[注册百度超级链账号].(https://xuper.baidu.com)
 [注册百度超级链账号](https://xuper.baidu.com)
 #
@@ -21,7 +21,7 @@ English | [简体中文](./README-zh.md)
 #
 
 #
-```
+
 
 ## 项目开始
 
