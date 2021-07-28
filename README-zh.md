@@ -1,6 +1,6 @@
 
 
-# xuperchain-vue: 政务系统c++合约代码
+# xuperchain-contract: 政务系统c++合约代码
 
 
 > 一个极简的政务系统；
